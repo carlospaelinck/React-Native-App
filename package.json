@@ -1,0 +1,21 @@
+{
+  "name": "react-native-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlospaelinck/React-Native-App.git"
+  },
+  "author": "Carlos Paelinck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlospaelinck/React-Native-App/issues"
+  },
+  "homepage": "https://github.com/carlospaelinck/React-Native-App#readme"
+}
